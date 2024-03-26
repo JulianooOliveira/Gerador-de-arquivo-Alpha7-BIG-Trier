@@ -31,10 +31,10 @@ Obs: Cabeçalho será ignorado quando script for finalizado.
 
 ### Você pode clicar em qualquer um dos botões que irá gerar os arquivos, no mesmo diretório (pasta), que está seu arquivo padrão.
 
-### Pasta somente com o Arquivo Padrão e o executável
+### Pasta somente com o Planilha Padrão e executável!
 
 ![image](https://github.com/JulianooOliveira/gerador-arquivos/assets/92277466/9ee40ca9-57a1-4d58-be08-f64a8b92f1ac)
 
-### Pasta com Arquivo Padrão e os gerados + Execuável
+### Pasta com Planilha Padrão, os gerados + Executável!
 
 ![image](https://github.com/JulianooOliveira/gerador-arquivos/assets/92277466/038ff913-94c5-4678-ac7a-c8cca79476e0)
