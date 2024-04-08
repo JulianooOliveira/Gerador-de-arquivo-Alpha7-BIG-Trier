@@ -35,6 +35,6 @@ Obs: Cabeçalho será ignorado quando script for finalizado.
 
 ![image](https://github.com/JulianooOliveira/gerador-arquivos/assets/92277466/9ee40ca9-57a1-4d58-be08-f64a8b92f1ac)
 
-### Pasta com Planilha Padrão, os gerados + Executável!
+### Pasta com Planilha Padrão, Executável, e os arquivos gerados!
 
 ![image](https://github.com/JulianooOliveira/gerador-arquivos/assets/92277466/038ff913-94c5-4678-ac7a-c8cca79476e0)
